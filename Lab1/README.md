@@ -57,11 +57,11 @@ for a new element. What will we need to do?
 
 Mutable:
 
-![image](https://user-images.githubusercontent.com/72325875/112276354-9a463f00-8cbb-11eb-92dd-a2cda1fd6c58.png)
+![test_mut](C:\Users\45539\Desktop\CPO\CPOLab\Lab1\src\pics\test_mut.png)
 
 Immutable:
 
-![image](https://user-images.githubusercontent.com/72325875/112278032-5b18ed80-8cbd-11eb-82a0-ba1ea39b339f.png)
+![test_imm](C:\Users\45539\Desktop\CPO\CPOLab\Lab1\src\pics\test_imm.png)
 
 ## Conclusion
 

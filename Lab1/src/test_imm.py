@@ -1,3 +1,5 @@
+# coding=utf-8
+
 import unittest
 from hypothesis import given
 import hypothesis.strategies as st

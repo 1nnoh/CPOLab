@@ -1,3 +1,4 @@
+# coding=utf-8
 
 import hypothesis.strategies as st
 from hypothesis import given

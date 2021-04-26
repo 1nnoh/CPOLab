@@ -1,3 +1,5 @@
+# coding=utf-8
+
 import ctypes
 class dy_array:
     def __init__(self, list=[]):
@@ -123,7 +125,7 @@ class dy_array:
     def __next__(self):
         if self.k < self.num:
             m = self.a[self.k]
-            self.a += 1
+            self.k += 1
             return m
         else:
             raise StopIteration
